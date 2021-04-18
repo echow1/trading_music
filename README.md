@@ -4,6 +4,9 @@ A platform to livestream music and trade financial instruments on it in real-tim
 
 ---
 
+* (4/18) - focus on predicting structural breaks in real-time
+  - compare and contrast offline ML vs. online Bayesian methods vs. online regular ML
+  - Can always return to financial markets stuff
 
 * (4/15) - process music data, build out the music data stream / visualization as a local Jupyter webapp
   - https://blog.ouseful.info/2020/01/11/rapid-widget-prototyping-using-third-party-javascript-packages-in-jupyter-notebooks/
