@@ -26,3 +26,4 @@ data/*
 data_processed/*
 st451_references/*
 **/*.pdf
+*.*~*
