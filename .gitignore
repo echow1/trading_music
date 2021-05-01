@@ -18,6 +18,7 @@ Thumbs.db
 **/*.RPP
 **/*.RPP-bak
 **/*.wav
+**/*.mp3
 **/*.mid
 references/
 **/*.csv
