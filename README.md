@@ -4,6 +4,15 @@ A platform to livestream music and trade financial instruments on it in real-tim
 
 ---
 
+* (5/1) - finishing up core analysis
+  - Make notebook easy so uses only 1 single Saarland music file + MIDI notes
+    - add your beat, tempo, harmony tagging
+    - set up so can run this script easily (plug and play)
+  - Run for many music streams
+    - Filename convention: [Corpus, composer, music time series]
+  - Backlog:
+    - Automatic parameter tuning
+
 * (4/18) - focus on predicting structural breaks in real-time
   - compare and contrast offline ML vs. online Bayesian methods vs. online regular ML
   - Can always return to financial markets stuff
