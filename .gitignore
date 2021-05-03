@@ -29,3 +29,4 @@ st451_references/*
 **/*.pdf
 *.*~*
 arch/
+**/*.asd
