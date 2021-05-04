@@ -4,6 +4,8 @@ A platform to livestream music and trade financial instruments on it in real-tim
 
 ---
 
+* (5/4) - packaging everything up
+
 * (5/1) - finishing up core analysis
   - Make notebook easy so uses only 1 single Saarland music file + MIDI notes
     - add your beat, tempo, harmony tagging
